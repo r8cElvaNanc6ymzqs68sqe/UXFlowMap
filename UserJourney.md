@@ -1,3 +1,4 @@
 UserFlowIntro
 SetupSteps
 FlowFeatures
+SampleStudies

@@ -2,3 +2,4 @@ UXFlowMapOverview
 ResearchGoals
 PersonaOverview
 ResearchDependencies
+ResearchMethods
