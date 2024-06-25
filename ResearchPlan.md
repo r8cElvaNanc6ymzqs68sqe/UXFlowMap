@@ -3,3 +3,4 @@ ResearchGoals
 PersonaOverview
 ResearchDependencies
 ResearchMethods
+ContributionSteps
