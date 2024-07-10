@@ -4,3 +4,4 @@ PersonaOverview
 ResearchDependencies
 ResearchMethods
 ContributionSteps
+ErrorSolutions
