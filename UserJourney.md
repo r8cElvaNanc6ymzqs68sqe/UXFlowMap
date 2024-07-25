@@ -4,3 +4,4 @@ FlowFeatures
 SampleStudies
 ConfigParameters
 ResearchCommunity
+LicenseInfo

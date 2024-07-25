@@ -5,3 +5,4 @@ ResearchDependencies
 ResearchMethods
 ContributionSteps
 ErrorSolutions
+LegalOverview
