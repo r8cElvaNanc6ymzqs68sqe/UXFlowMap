@@ -5,3 +5,4 @@ SampleStudies
 ConfigParameters
 ResearchCommunity
 LicenseInfo
+UXResearchFAQ
