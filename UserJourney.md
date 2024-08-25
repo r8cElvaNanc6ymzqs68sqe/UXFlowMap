@@ -6,3 +6,4 @@ ConfigParameters
 ResearchCommunity
 LicenseInfo
 UXResearchFAQ
+StudyUpdates

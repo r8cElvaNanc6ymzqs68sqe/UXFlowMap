@@ -6,3 +6,4 @@ ResearchMethods
 ContributionSteps
 ErrorSolutions
 LegalOverview
+ChangeLog
