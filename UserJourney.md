@@ -7,3 +7,4 @@ ResearchCommunity
 LicenseInfo
 UXResearchFAQ
 StudyUpdates
+UsabilityMetrics
