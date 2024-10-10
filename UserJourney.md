@@ -8,3 +8,4 @@ LicenseInfo
 UXResearchFAQ
 StudyUpdates
 UsabilityMetrics
+CommunityLinks
